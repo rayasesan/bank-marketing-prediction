@@ -109,7 +109,7 @@ Random Forest achieved the best overall performance and was selected as the fina
 
 ## Project Structure
 
-```text
+```
 bank-marketing-prediction/
 │
 ├── bank_marketing_prediction.ipynb
